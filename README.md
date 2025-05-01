@@ -1,5 +1,3 @@
-# jamf-pro-unmanage
-
 # Jamf Pro Smart Group Unmanage Script
 
 This script automatically **unmanages computers** in a specified **Smart Group** in Jamf Pro that have not checked in for over **120 days**. It uses the Jamf Pro API to identify devices and runs the unmanage process in parallel for improved performance.
